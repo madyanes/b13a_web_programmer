@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body > header,
+main {
+  width: 60vw;
+  margin-inline: auto;
+}
+
+li {
+  list-style: none;
+  display: inline;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+body > header {
+  background-color: #d1bdff;
+  padding-bottom: 1.25rem;
+  padding-inline: 0.625rem;
+}
+
+body > header ul {
+  display: flex;
+  column-gap: 0.625rem;
+}
+
+body > header h1 {
+  padding-top: 1.25rem;
+  padding-bottom: 0.625rem;
+}
