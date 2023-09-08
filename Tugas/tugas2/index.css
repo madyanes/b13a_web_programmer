@@ -10,6 +10,8 @@ body > * {
   width: 60vw;
   margin-inline: auto;
   padding-inline: 0.625rem;
+  background-color: #d1bdff;
+  margin-bottom: 15px;
 }
 
 main > * {
