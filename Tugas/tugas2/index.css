@@ -49,6 +49,7 @@ body > header ul {
 
 body > header li {
   padding: 0.3125rem;
+  font-size: 14px;
 }
 
 body > header h1 {
