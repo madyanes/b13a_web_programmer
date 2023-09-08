@@ -15,6 +15,10 @@ body > * {
   border-radius: 5px;
 }
 
+body > *:not(:first-child) {
+  padding-block: 0.625rem;
+}
+
 main > * {
   padding-block: 0.625rem;
 }
