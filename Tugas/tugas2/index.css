@@ -22,11 +22,6 @@ a {
   text-decoration: none;
 }
 
-li {
-  list-style: none;
-  display: inline;
-}
-
 body {
   font-family: 'Quicksand', sans-serif;
   padding-top: 1.25rem;
@@ -56,6 +51,14 @@ body > header h1 {
 
 /* Articles */
 
+article ul {
+  margin-block: 0.625rem;
+}
+
+article ul li::marker {
+  content: '✔ ';
+}
+
 article ol {
   display: flex;
   flex-wrap: wrap;
@@ -64,8 +67,7 @@ article ol {
 }
 
 article li {
-  border: 1px solid blue;
-  padding: 0.1875rem 0.625rem;
+  list-style-position: inside;
 }
 
 article p {
@@ -75,4 +77,10 @@ article p {
 /* Classes */
 .border-top {
   border-top: 1px solid blue;
+}
+
+.inline-list > li {
+  display: inline;
+  border: 1px solid blue;
+  padding: 0.1875rem 0.625rem;
 }
