@@ -85,7 +85,7 @@ article p {
 /* Asides */
 
 aside#inquiry form div {
-  padding-block: 0.3125rem;
+  padding-block: 0.625rem;
 }
 
 aside#inquiry form div > * {
@@ -101,19 +101,19 @@ aside#inquiry input,
 aside#inquiry textarea {
   font-size: large;
   border: none;
-  padding: 10px;
+  padding: 0.625rem;
 }
 
 aside#inquiry .buttons {
   display: flex;
-  gap: 10px;
+  gap: 0.625rem;
   justify-content: center;
 }
 
 aside#inquiry .buttons button {
   flex-basis: 20%;
   font-size: large;
-  padding-block: 5px;
+  padding-block: 0.3125rem;
 }
 
 /* Classes */
