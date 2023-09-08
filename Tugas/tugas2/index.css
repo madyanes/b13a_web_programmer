@@ -26,6 +26,10 @@ a {
   text-decoration: none;
 }
 
+a:visited {
+  color: blue;
+}
+
 body {
   font-family: 'Quicksand', sans-serif;
   padding-top: 1.25rem;
