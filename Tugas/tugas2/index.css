@@ -12,6 +12,10 @@ main {
   margin-inline: auto;
 }
 
+a {
+  text-decoration: none;
+}
+
 li {
   list-style: none;
   display: inline;
@@ -20,6 +24,8 @@ li {
 body {
   font-family: 'Quicksand', sans-serif;
 }
+
+/* Document Header */
 
 body > header {
   background-color: #d1bdff;
@@ -30,6 +36,11 @@ body > header {
 body > header ul {
   display: flex;
   column-gap: 0.625rem;
+}
+
+body > header li {
+  border: 1px solid blue;
+  padding: 0.3125rem;
 }
 
 body > header h1 {
