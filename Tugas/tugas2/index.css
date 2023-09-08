@@ -144,3 +144,21 @@ aside#inquiry .buttons button {
   padding: 0.1875rem 0.625rem;
   border-radius: 5px;
 }
+
+@media screen and (max-width: 1024px) {
+  body > * {
+    width: 70vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  body > * {
+    width: 80vw;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  body > * {
+    width: 95vw;
+  }
+}
