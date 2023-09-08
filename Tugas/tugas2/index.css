@@ -145,6 +145,11 @@ aside#inquiry .buttons button {
   border-radius: 5px;
 }
 
+.inline-list-color > li {
+  border: none;
+  background-color: #77a5e6;
+}
+
 @media screen and (max-width: 1024px) {
   body > * {
     width: 70vw;
