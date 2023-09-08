@@ -12,6 +12,7 @@ body > * {
   padding-inline: 1.25rem;
   background-color: #d1bdff;
   margin-bottom: 0.9375rem;
+  border-radius: 5px;
 }
 
 main > * {
@@ -102,6 +103,7 @@ aside#inquiry textarea {
   font-size: large;
   border: none;
   padding: 0.625rem;
+  border-radius: 5px;
 }
 
 aside#inquiry .buttons {
@@ -114,6 +116,8 @@ aside#inquiry .buttons button {
   flex-basis: 20%;
   font-size: large;
   padding-block: 0.3125rem;
+  border: 1px solid #d1bdff;
+  border-radius: 5px;
 }
 
 /* Classes */
@@ -125,4 +129,5 @@ aside#inquiry .buttons button {
   display: inline;
   border: 0.0625rem solid #4476bb;
   padding: 0.1875rem 0.625rem;
+  border-radius: 5px;
 }
