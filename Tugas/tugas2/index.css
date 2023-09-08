@@ -9,9 +9,9 @@
 body > * {
   width: 60vw;
   margin-inline: auto;
-  padding-inline: 0.625rem;
+  padding-inline: 1.25rem;
   background-color: #d1bdff;
-  margin-bottom: 15px;
+  margin-bottom: 0.9375rem;
 }
 
 main > * {
@@ -40,7 +40,7 @@ body > header ul {
 }
 
 body > header li {
-  border: 1px solid blue;
+  border: 0.0625rem solid blue;
   padding: 0.3125rem;
 }
 
@@ -76,11 +76,11 @@ article p {
 
 /* Classes */
 .border-top {
-  border-top: 1px solid blue;
+  border-top: 0.0625rem solid blue;
 }
 
 .inline-list > li {
   display: inline;
-  border: 1px solid blue;
+  border: 0.0625rem solid blue;
   padding: 0.1875rem 0.625rem;
 }
