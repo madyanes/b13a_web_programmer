@@ -56,6 +56,23 @@ body > header h1 {
 
 /* Articles */
 
+article ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.625rem;
+  margin-block: 0.625rem;
+}
+
+article li {
+  border: 1px solid blue;
+  padding: 0.1875rem 0.625rem;
+}
+
 article p {
   margin-block: 0.625rem;
+}
+
+/* Classes */
+.border-top {
+  border-top: 1px solid blue;
 }
