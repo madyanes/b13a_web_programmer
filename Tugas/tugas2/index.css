@@ -140,7 +140,7 @@ aside#inquiry .buttons button {
 
 .inline-list > li {
   display: inline;
-  border: 0.0625rem solid #4476bb;
+  border: 0.125rem solid #4476bb;
   padding: 0.1875rem 0.625rem;
   border-radius: 5px;
 }
