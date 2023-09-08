@@ -23,10 +23,6 @@ main > * {
   padding-block: 0.625rem;
 }
 
-aside {
-  padding-block: 0.625rem;
-}
-
 a {
   text-decoration: none;
 }
@@ -94,6 +90,10 @@ section {
 }
 
 /* Asides */
+
+aside#inquiry {
+  padding-block: 1.25rem 0.625rem;
+}
 
 aside#inquiry form div {
   padding-block: 0.625rem;
