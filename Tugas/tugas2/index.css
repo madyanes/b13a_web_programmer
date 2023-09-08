@@ -83,6 +83,12 @@ article p {
   margin-block: 0.625rem;
 }
 
+/* Sections */
+
+section {
+  margin-top: 1.25rem;
+}
+
 /* Asides */
 
 aside#inquiry form div {
