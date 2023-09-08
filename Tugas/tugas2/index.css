@@ -48,7 +48,6 @@ body > header ul {
 }
 
 body > header li {
-  border: 0.0625rem solid blue;
   padding: 0.3125rem;
 }
 
@@ -123,6 +122,6 @@ aside#inquiry .buttons button {
 
 .inline-list > li {
   display: inline;
-  border: 0.0625rem solid blue;
+  border: 0.0625rem solid #4476bb;
   padding: 0.1875rem 0.625rem;
 }
