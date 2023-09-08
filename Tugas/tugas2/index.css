@@ -10,6 +10,7 @@ body > header,
 main {
   width: 60vw;
   margin-inline: auto;
+  padding-inline: 1.25rem;
 }
 
 a {
@@ -30,7 +31,6 @@ body {
 body > header {
   background-color: #d1bdff;
   padding-bottom: 1.25rem;
-  padding-inline: 0.625rem;
 }
 
 body > header ul {
