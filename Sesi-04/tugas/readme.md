@@ -1,5 +1,7 @@
 # Tugas Mandiri
 
+By Madyan Eka Septian
+
 ## Algoritma Luas dan Keliling Lingkaran
 
 A. Luas Lingkaran
