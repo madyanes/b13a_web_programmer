@@ -50,6 +50,7 @@ article#profile {
   padding: 1.5625rem 3.75rem;
   display: flex;
   flex-wrap: wrap;
+  gap: 20px;
   align-items: center;
   column-gap: 6.25rem;
   background-color: #7cbfdf;
