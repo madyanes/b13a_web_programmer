@@ -30,7 +30,7 @@ body > header {
   background-color: rgb(72 156 206);
   display: flex;
   justify-content: space-between;
-  padding: 0.625rem 1.5625rem;
+  padding: 15px 1.5625rem;
   font-size: var(--site-header-font-size);
   color: white;
 }
@@ -42,6 +42,7 @@ body > header h1 {
 body > header ul {
   display: flex;
   column-gap: 0.9375rem;
+  text-transform: uppercase;
 }
 
 /* Article */
