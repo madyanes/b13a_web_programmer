@@ -8,11 +8,35 @@
   <body>
     <!-- Dibuat oleh Madyan Eka Septian -->
     <script>
-      let kelilingLingkaran, phi, r;
-      phi = 3.14;
-      r = window.prompt('Nilai jari-jari? ', 0);
-      kelilingLingkaran = phi * r * r;
-      window.alert(`Keliling lingkaran: ${kelilingLingkaran}`);
+      function kelilingLingkaran(r) {
+        let hasil, phi;
+        phi = 3.14;
+        hasil = phi * r * r;
+        console.log(`Hasil Keliling Lingkaran: ${hasil}`);
+      }
+
+      function luasLingkaran(r) {
+        let hasil, phi;
+        phi = 3.14;
+        hasil = 2 * phi * r;
+        console.log(`Hasil Luas Lingkaran: ${hasil}`);
+      }
+
+      function luasDanKelilingLingkaran() {
+        try {
+          let r = Number(window.prompt('Nilai jari-jari? ', 0));
+          if (isNaN(r)) {
+            r = 0;
+            throw new Error('Bukan angka! Program dihentikan.');
+          }
+          kelilingLingkaran(r);
+          luasLingkaran(r);
+        } catch (error) {
+          console.error(error);
+        }
+      }
+
+      luasDanKelilingLingkaran();
     </script>
   </body>
 </html>
