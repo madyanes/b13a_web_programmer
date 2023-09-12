@@ -1,4 +1,4 @@
-# Pembahasan
+# Sesi 02: HTML
 
 [Codeshare batch 13 sesi 2](https://codeshare.io/batch13sesi2)
 
