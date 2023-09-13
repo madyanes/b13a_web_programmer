@@ -27,10 +27,10 @@ Pelatihan ini disuguhkan untuk pemegang Kartu Prakerja gelombang 60 dan merupaka
 
 | Sesi | Tanggal              | Topik                            |
 | :--: | -------------------- | -------------------------------- |
-|  1   | Senin, 4 September   | Tentang Pelatihan                |
-|  2   | Rabu, 6 September    | Tentang Pemrograman Berbasis Web |
-|  3   | Jum'at, 8 September  | HTML Dasar                       |
-|  4   | Senin, 11 September  | CSS Dasar & GitHub Dasar         |
+|  1   | Senin, 4 September   | Tentang Pemrograman Berbasis Web |
+|  2   | Rabu, 6 September    | HTML Dasar                       |
+|  3   | Jum'at, 8 September  | CSS Dasar & GitHub Dasar         |
+|  4   | Senin, 11 September  | Algoritma                        |
 |  5   | Rabu, 13 September   | JavaScript Dasar                 |
 |  6   | Jum'at, 15 September | DOM dasar & RegExp dasar         |
 |  7   | Senin, 18 September  | Testing & Deploy Web             |
