@@ -13,6 +13,15 @@
   color: var(--color);
 }
 
+ol {
+  background-color: whitesmoke;
+  padding: 1.25rem;
+}
+
+li {
+  list-style-position: inside;
+}
+
 input {
   display: block;
   width: 100%;
