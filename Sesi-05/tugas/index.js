@@ -32,9 +32,6 @@ function createList(count, text) {
   } catch (error) {
     const newParagraph = document.createElement('p');
     newParagraph.textContent = `Error: ${error.message}`;
-    newParagraph.style.color = 'red';
-    newParagraph.style.fontWeight = 'bold';
-    newParagraph.style.fontStyle = 'oblique';
     return newParagraph;
   }
 
