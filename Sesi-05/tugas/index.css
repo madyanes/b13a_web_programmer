@@ -64,3 +64,19 @@ header {
 .wrapper-input > div:not(:last-child) {
   padding-right: 5px;
 }
+
+/* Media Query */
+
+@media screen and (width <=768px) {
+  body > header,
+  main {
+    width: 80vw;
+  }
+}
+
+@media screen and (width <=425px) {
+  body > header,
+  main {
+    width: 90vw;
+  }
+}
