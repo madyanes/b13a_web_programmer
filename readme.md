@@ -2,6 +2,10 @@
 
 Repositori ini merupakan sebuah arsip dari beberapa berkas yang berisi penerapan materi pembelajaran yang bersumber dari web <https://www.kode.id/>, berjudul **Belajar Langkah Fundamental Untuk Menjadi Web Programmer**.
 
+## Penyataan
+
+Kode, nama atau struktur folder di dalam repositori ini bisa berbeda dengan tugas yang saya serahkan melalui Google Classroom, sebab repositori ini akan langsung diperbarui jika memang diperlukan, tidak berlaku sebaliknya.
+
 ## Struktur Folder
 
 Setiap folder merepresentasikan sesi pertemuan, sekaligus sebagai wadah berkas-berkas yang berkaitan dengan isi pembahasan dalam sesi tersebut.
