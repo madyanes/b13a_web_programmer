@@ -46,8 +46,15 @@ main {
   padding: 1.25rem;
 }
 
-header {
+body > header {
   text-align: center;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+main {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
 }
 
 /* Classes */
