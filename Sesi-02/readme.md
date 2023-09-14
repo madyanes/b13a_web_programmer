@@ -1,8 +1,3 @@
 # Sesi 02: HTML
 
-[Codeshare batch 13 sesi 2](https://codeshare.io/batch13sesi2)
-
-1. Pengenalan HTML secra lebih detail
-2. Responsivitas
-
-menulis kode HTML bisa diketik manual atau dengan bantuan intellisense / emmet
+HTML adalah singkatan dari _Hypertext Markup Language_. HTML memungkinkan seorang pengguna dapat membuat dan menyusun bagian _heading_, _paragraf_, _link_ atau tautan, dan blockquote untuk halaman sebuah website.

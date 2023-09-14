@@ -1,3 +1,3 @@
 # Sesi 03: CSS dan Git Dasar
 
-[Codeshare batch 13 sesi 3](https://codeshare.io/batch13awebsesi03)
+CSS singkatan dari _Cascading Style Sheet_, artinya sebuah bahasa sederhana yang digunakan untuk menambahkan gaya (misalnya, font, warna, spasi) ke sebuah halaman website.
