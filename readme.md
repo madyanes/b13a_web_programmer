@@ -20,7 +20,7 @@ Pelatihan ini disuguhkan untuk pemegang Kartu Prakerja gelombang 60 dan merupaka
 | ------------------- | ------------------ |
 | Pelatih             | Arif Setiawan      |
 | Moderator           | Jessica            |
-| Presensi (Prakerja) | Lilis              |
+| Presensi (Prakerja) | Lilis Handayani    |
 | Peserta             | Madyan Eka Septian |
 
 ### Jadwal Pelatihan
