@@ -9,13 +9,13 @@ function onSubmitHandler(e) {
   const count = formData.get('count');
   const text = formData.get('text');
 
-  render(count, text);
+  const newList = createList(count, text);
+  render(newList);
 }
 
-function render(count, text) {
+function render(element) {
   const result = document.getElementById('result');
-  const newList = createList(count, text);
-  result.replaceChildren(newList);
+  result.replaceChildren(element);
 }
 
 function createList(count, text) {
