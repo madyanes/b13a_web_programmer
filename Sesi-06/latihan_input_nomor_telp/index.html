@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Input Nomor Telepon</title>
+    <style>
+      #warning-message {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <article>
+        <h1>Input Nomor Telepon</h1>
+        <form id="phone-number-form">
+          <input
+            name="phone-number"
+            placeholder="Phone Number"
+            type="tel"
+            required
+          />
+          <button disabled>Submit</button>
+        </form>
+        <p id="warning-message"></p>
+      </article>
+    </main>
+
+    <script src="index.js"></script>
+  </body>
+</html>
